@@ -15,7 +15,7 @@
 .container div {
   padding: 15px;
   font-size: 32px;
-  font-family: Helvetica;
+  font-family: Helvetica, serif;
   font-weight: bold;
   color: white;
 }
